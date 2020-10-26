@@ -1,4 +1,8 @@
-### Hi there 👋
+![](https://i.giphy.com/media/yrhhmre5fN2PtRujfo/giphy-downsized.gif)
+
+- 🔭 I’m currently working on rotating through all the squads
+- 🌱 I’m currently learning Redwood.js, Low/No-code tooling
+- 😄 Pronouns: he / him
 
 <!--
 **cory-bark/cory-bark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
